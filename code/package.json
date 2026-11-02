@@ -1,0 +1,50 @@
+{
+  "name": "family-financial",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Planejamento financeiro familiar",
+  "author": "Family Financial",
+  "main": "./out/main/index.js",
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "start": "electron-vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "icon": "electron scripts/gerar-icone.cjs",
+    "pack": "npm run build && electron-builder --win --dir",
+    "dist": "npm run build && electron-builder --win"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "electron": "^45.1.0",
+    "electron-builder": "^26.18.0",
+    "electron-vite": "^6.0.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "recharts": "^3.10.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  },
+  "build": {
+    "appId": "br.com.familyfinancial.app",
+    "productName": "Family Financial",
+    "copyright": "Family Financial",
+    "directories": { "output": "release", "buildResources": "build" },
+    "files": ["out/**/*", "package.json"],
+    "win": { "target": [{ "target": "nsis", "arch": ["x64"] }], "icon": "build/icon.png" },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "deleteAppDataOnUninstall": false,
+      "language": "1046",
+      "shortcutName": "Family Financial",
+      "artifactName": "Family-Financial-Setup-${version}.exe"
+    }
+  }
+}

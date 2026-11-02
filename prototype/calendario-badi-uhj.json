@@ -1,0 +1,305 @@
+{
+ "fonte": "Casa Universal de Justiça, tabela 172-221 B.E. (carta de 10/07/2014), via bahai-library.com/uhj_badi_calendar_2014",
+ "anos": {
+  "172": {
+   "nawRuz": "2015-03-21",
+   "ayyamInicio": "2016-02-26",
+   "ayyamFim": "2016-02-29",
+   "ayyamDias": 4
+  },
+  "173": {
+   "nawRuz": "2016-03-20",
+   "ayyamInicio": "2017-02-25",
+   "ayyamFim": "2017-02-28",
+   "ayyamDias": 4
+  },
+  "174": {
+   "nawRuz": "2017-03-20",
+   "ayyamInicio": "2018-02-25",
+   "ayyamFim": "2018-03-01",
+   "ayyamDias": 5
+  },
+  "175": {
+   "nawRuz": "2018-03-21",
+   "ayyamInicio": "2019-02-26",
+   "ayyamFim": "2019-03-01",
+   "ayyamDias": 4
+  },
+  "176": {
+   "nawRuz": "2019-03-21",
+   "ayyamInicio": "2020-02-26",
+   "ayyamFim": "2020-02-29",
+   "ayyamDias": 4
+  },
+  "177": {
+   "nawRuz": "2020-03-20",
+   "ayyamInicio": "2021-02-25",
+   "ayyamFim": "2021-02-28",
+   "ayyamDias": 4
+  },
+  "178": {
+   "nawRuz": "2021-03-20",
+   "ayyamInicio": "2022-02-25",
+   "ayyamFim": "2022-03-01",
+   "ayyamDias": 5
+  },
+  "179": {
+   "nawRuz": "2022-03-21",
+   "ayyamInicio": "2023-02-26",
+   "ayyamFim": "2023-03-01",
+   "ayyamDias": 4
+  },
+  "180": {
+   "nawRuz": "2023-03-21",
+   "ayyamInicio": "2024-02-26",
+   "ayyamFim": "2024-02-29",
+   "ayyamDias": 4
+  },
+  "181": {
+   "nawRuz": "2024-03-20",
+   "ayyamInicio": "2025-02-25",
+   "ayyamFim": "2025-02-28",
+   "ayyamDias": 4
+  },
+  "182": {
+   "nawRuz": "2025-03-20",
+   "ayyamInicio": "2026-02-25",
+   "ayyamFim": "2026-03-01",
+   "ayyamDias": 5
+  },
+  "183": {
+   "nawRuz": "2026-03-21",
+   "ayyamInicio": "2027-02-26",
+   "ayyamFim": "2027-03-01",
+   "ayyamDias": 4
+  },
+  "184": {
+   "nawRuz": "2027-03-21",
+   "ayyamInicio": "2028-02-26",
+   "ayyamFim": "2028-02-29",
+   "ayyamDias": 4
+  },
+  "185": {
+   "nawRuz": "2028-03-20",
+   "ayyamInicio": "2029-02-25",
+   "ayyamFim": "2029-02-28",
+   "ayyamDias": 4
+  },
+  "186": {
+   "nawRuz": "2029-03-20",
+   "ayyamInicio": "2030-02-25",
+   "ayyamFim": "2030-02-28",
+   "ayyamDias": 4
+  },
+  "187": {
+   "nawRuz": "2030-03-20",
+   "ayyamInicio": "2031-02-25",
+   "ayyamFim": "2031-03-01",
+   "ayyamDias": 5
+  },
+  "188": {
+   "nawRuz": "2031-03-21",
+   "ayyamInicio": "2032-02-26",
+   "ayyamFim": "2032-02-29",
+   "ayyamDias": 4
+  },
+  "189": {
+   "nawRuz": "2032-03-20",
+   "ayyamInicio": "2033-02-25",
+   "ayyamFim": "2033-02-28",
+   "ayyamDias": 4
+  },
+  "190": {
+   "nawRuz": "2033-03-20",
+   "ayyamInicio": "2034-02-25",
+   "ayyamFim": "2034-02-28",
+   "ayyamDias": 4
+  },
+  "191": {
+   "nawRuz": "2034-03-20",
+   "ayyamInicio": "2035-02-25",
+   "ayyamFim": "2035-03-01",
+   "ayyamDias": 5
+  },
+  "192": {
+   "nawRuz": "2035-03-21",
+   "ayyamInicio": "2036-02-26",
+   "ayyamFim": "2036-02-29",
+   "ayyamDias": 4
+  },
+  "193": {
+   "nawRuz": "2036-03-20",
+   "ayyamInicio": "2037-02-25",
+   "ayyamFim": "2037-02-28",
+   "ayyamDias": 4
+  },
+  "194": {
+   "nawRuz": "2037-03-20",
+   "ayyamInicio": "2038-02-25",
+   "ayyamFim": "2038-02-28",
+   "ayyamDias": 4
+  },
+  "195": {
+   "nawRuz": "2038-03-20",
+   "ayyamInicio": "2039-02-25",
+   "ayyamFim": "2039-03-01",
+   "ayyamDias": 5
+  },
+  "196": {
+   "nawRuz": "2039-03-21",
+   "ayyamInicio": "2040-02-26",
+   "ayyamFim": "2040-02-29",
+   "ayyamDias": 4
+  },
+  "197": {
+   "nawRuz": "2040-03-20",
+   "ayyamInicio": "2041-02-25",
+   "ayyamFim": "2041-02-28",
+   "ayyamDias": 4
+  },
+  "198": {
+   "nawRuz": "2041-03-20",
+   "ayyamInicio": "2042-02-25",
+   "ayyamFim": "2042-02-28",
+   "ayyamDias": 4
+  },
+  "199": {
+   "nawRuz": "2042-03-20",
+   "ayyamInicio": "2043-02-25",
+   "ayyamFim": "2043-03-01",
+   "ayyamDias": 5
+  },
+  "200": {
+   "nawRuz": "2043-03-21",
+   "ayyamInicio": "2044-02-26",
+   "ayyamFim": "2044-02-29",
+   "ayyamDias": 4
+  },
+  "201": {
+   "nawRuz": "2044-03-20",
+   "ayyamInicio": "2045-02-25",
+   "ayyamFim": "2045-02-28",
+   "ayyamDias": 4
+  },
+  "202": {
+   "nawRuz": "2045-03-20",
+   "ayyamInicio": "2046-02-25",
+   "ayyamFim": "2046-02-28",
+   "ayyamDias": 4
+  },
+  "203": {
+   "nawRuz": "2046-03-20",
+   "ayyamInicio": "2047-02-25",
+   "ayyamFim": "2047-03-01",
+   "ayyamDias": 5
+  },
+  "204": {
+   "nawRuz": "2047-03-21",
+   "ayyamInicio": "2048-02-26",
+   "ayyamFim": "2048-02-29",
+   "ayyamDias": 4
+  },
+  "205": {
+   "nawRuz": "2048-03-20",
+   "ayyamInicio": "2049-02-25",
+   "ayyamFim": "2049-02-28",
+   "ayyamDias": 4
+  },
+  "206": {
+   "nawRuz": "2049-03-20",
+   "ayyamInicio": "2050-02-25",
+   "ayyamFim": "2050-02-28",
+   "ayyamDias": 4
+  },
+  "207": {
+   "nawRuz": "2050-03-20",
+   "ayyamInicio": "2051-02-25",
+   "ayyamFim": "2051-03-01",
+   "ayyamDias": 5
+  },
+  "208": {
+   "nawRuz": "2051-03-21",
+   "ayyamInicio": "2052-02-26",
+   "ayyamFim": "2052-02-29",
+   "ayyamDias": 4
+  },
+  "209": {
+   "nawRuz": "2052-03-20",
+   "ayyamInicio": "2053-02-25",
+   "ayyamFim": "2053-02-28",
+   "ayyamDias": 4
+  },
+  "210": {
+   "nawRuz": "2053-03-20",
+   "ayyamInicio": "2054-02-25",
+   "ayyamFim": "2054-02-28",
+   "ayyamDias": 4
+  },
+  "211": {
+   "nawRuz": "2054-03-20",
+   "ayyamInicio": "2055-02-25",
+   "ayyamFim": "2055-03-01",
+   "ayyamDias": 5
+  },
+  "212": {
+   "nawRuz": "2055-03-21",
+   "ayyamInicio": "2056-02-26",
+   "ayyamFim": "2056-02-29",
+   "ayyamDias": 4
+  },
+  "213": {
+   "nawRuz": "2056-03-20",
+   "ayyamInicio": "2057-02-25",
+   "ayyamFim": "2057-02-28",
+   "ayyamDias": 4
+  },
+  "214": {
+   "nawRuz": "2057-03-20",
+   "ayyamInicio": "2058-02-25",
+   "ayyamFim": "2058-02-28",
+   "ayyamDias": 4
+  },
+  "215": {
+   "nawRuz": "2058-03-20",
+   "ayyamInicio": "2059-02-25",
+   "ayyamFim": "2059-02-28",
+   "ayyamDias": 4
+  },
+  "216": {
+   "nawRuz": "2059-03-20",
+   "ayyamInicio": "2060-02-25",
+   "ayyamFim": "2060-02-29",
+   "ayyamDias": 5
+  },
+  "217": {
+   "nawRuz": "2060-03-20",
+   "ayyamInicio": "2061-02-25",
+   "ayyamFim": "2061-02-28",
+   "ayyamDias": 4
+  },
+  "218": {
+   "nawRuz": "2061-03-20",
+   "ayyamInicio": "2062-02-25",
+   "ayyamFim": "2062-02-28",
+   "ayyamDias": 4
+  },
+  "219": {
+   "nawRuz": "2062-03-20",
+   "ayyamInicio": "2063-02-25",
+   "ayyamFim": "2063-02-28",
+   "ayyamDias": 4
+  },
+  "220": {
+   "nawRuz": "2063-03-20",
+   "ayyamInicio": "2064-02-25",
+   "ayyamFim": "2064-02-29",
+   "ayyamDias": 5
+  },
+  "221": {
+   "nawRuz": "2064-03-20",
+   "ayyamInicio": "2065-02-25",
+   "ayyamFim": "2065-02-28",
+   "ayyamDias": 4
+  }
+ }
+}
